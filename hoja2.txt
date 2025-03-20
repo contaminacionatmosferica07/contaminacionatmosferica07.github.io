@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabajo contaminación atmosférica</title>
+    <link rel="stylesheet" href="estilob.css">	
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Londrina+Shadow&family=Love+Ya+Like+A+Sister&display=swap" rel="stylesheet">			
+</head>
+	<body>      
+    
+		<h1>¿Qué efectos tiene?</h1>
+<h4>
+<div class="caja">
+<p>
+La contaminación del aire es uno de los principales retos a los que nos enfrentamos. Los efectos de la contaminación atmosférica pueden ser irreversibles para la vida en el planeta, por lo que hay que trabajar para evitar, reducir, compensar o mitigar la contaminación del aire.
+La contaminación reduce la calidad de los suelos, aguas y aire de nuestro planeta.
+		La exposición a altos niveles de contaminación del aire puede causar una variedad de resultados adversos a la salud.
+		La contaminación del aire puede aumentar el riesgo de infecciones respiratorias, enfermedades cardíacas, accidentes cerebrovasculares y cáncer de pulmón. 
+		Tanto la exposición a corto como a largo plazo a los contaminantes del aire se ha asociado con impactos adversos en la salud.
+		</p>
+</div>
+	</body>
+<body>
+    <div class="caja">
+        <img src="https://dkv.es/corporativo/sites/default/files/2022-04/contaminaci%C3%B3n%20atmosf%C3%A9rica%20causas.jpg" alt="contaminación atmosférica causas.jpg" class="imagen">
+    </div>
+</body>
+</h4>
+	
+<body>	
+<p class="caja-destacada"><h2>Los efectos y algunas posibles soluciones son:</h2></p>
+<div class="caja">
+<div class="caja 1">
+<table>
+        <thead>
+            <tr>
+                <th>Efectos</th>
+                <th>Soluciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Problemas respiratorios. El aire contaminado puede incidir sobre la salud de las personas y los animales al ser respirado, ya que contiene sustancias químicas cancerígenas, tóxicas o venenosas, cuyo efecto en el organismo puede ser letal e incluso prolongado.</td>
+                <td>Filtros para chimeneas y actividad industrial responsable.</td>
+            </tr>
+            <tr>
+                <td>Contaminación del agua. La contaminación del aire y del agua se retroalimentan, ya que el agua al evaporarse puede llevar consigo diversas sustancias tóxicas que luego permanecen en la atmósfera.</td>
+                <td>Emplear energías alternativas a los combustibles fósiles.</td>
+            </tr>
+            <tr>
+                <td>Lluvias acidas. Muchos elementos orgánicos reaccionan en la atmósfera con el vapor de agua y forman variantes de ácido o de mezclas corrosivas, que luego se precipitan a la tierra con la lluvia, en lo que normalmente se denominan lluvias.</td>
+                <td>Reducir o eliminar el uso de aerosoles con CFC.</td>
+            </tr>
+	    <tr>
+                <td>Destrucción de la capa de ozono. Muchos gases ascienden a las capas superiores de la atmósfera, en donde se halla la capa de ozono (O3) que nos protege del impacto directo de los rayos solares. Allí, reaccionan con este elemento y agujerean esta barrera protectora.</td>
+                <td>Controlar las quemas y prever los incendios forestales o industriales.</td>
+            </tr>
+	    <tr>
+                <td>Efecto invernadero. La acumulación de gases pesados en la atmósfera hace las veces de una barrera artificial que no deja huir el calor ambiental, concentrándolo y haciendo que aumente la temperatura del mundo.</td>
+                <td>Promover el reciclaje de las aguas servidas.</td>
+            </tr>
+        </tbody>
+            </table>
+</body>
+
+<body>
+   <h3><img src="https://media1.tenor.com/images/a3407ae8f64ca67350f889b4730b9718/tenor.gif?itemid=8834897.gif" alt="Pollution GIF" class="mi-gif"></h3>
+</body>
+		<br> <a href="hoja3.html">  CAUSAS </a>
+		<br> <a href="tcHTML.html">Vuelta atrás </a>

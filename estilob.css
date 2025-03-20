@@ -1,0 +1,104 @@
+
+ .titulo-destacado {
+  background-color: #9EB7E5; 
+  color: #D21342; 
+  padding: 10px; 
+  text-align: center; 
+  border-radius: 10px; 
+  font-size: 1.8em; 
+  font-family: "Love Ya Like A Sister", cursive;   
+  margin: 20px auto; 
+  max-width: 80%; 
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+{
+  font-family: "Love Ya Like A Sister", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.caja {
+    background-color: #ffffff; 
+    border: 2px solid #cccccc; 
+    border-radius: 8px; 
+    padding: 20px;    
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+    text-align: justify; 
+    line-height: 1.6; 
+    letter-spacing: normal; 
+    margin: 20px auto; 
+    max-width: 800px; 
+    display: flex;
+    margin-left: 280px;
+}
+.imagen {
+    max-width: 100%; 
+    max-height: 100%; 
+    object-fit: cover; 
+    border-radius: 10px; 
+    image: url= ("https://www.bing.com/images/search?view=detailV2&ccid=xxi9VCk8&id=B618E525EE63D424BD677774716AB9B7ACC41B66&thid=OIP.xxi9VCk83LVOqgohFNcmNwHaEo&mediaurl=https%3a%2f%2fdkv.es%2fcorporativo%2fsites%2fdefault%2ffiles%2f2022-04%2fcontaminaci%c3%b3n+atmosf%c3%a9rica+causas.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c718bd54293cdcb54eaa0a2114d72637%3frik%3dZhvErLe5anF0dw%26pid%3dImgRaw%26r%3d0&exph=500&expw=800&q=causas+contaminacion+atmosferica&simid=608029566013627755&FORM=IRPRST&ck=B97A36A64976BB8D1A3AB4DDF1E9F308&selectedIndex=16&itb=0&ajaxhist=0&ajaxserp=0");
+}
+
+
+.londrina-shadow-regular {
+  font-family: "Londrina Shadow", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+h2 {
+    font-size: 2rem;
+    font-family: "Londrina Shadow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #555; 
+    border-bottom: 2px solid #ddd; 
+    padding-bottom: 0.5rem; 
+    margin-bottom: 1.5rem; 
+    padding:15px 15px 20px 15px;
+    border-left:5px solid #F98200;
+    background:#F5F5F5;
+    margin-bottom:30px;
+    line-height:26px !important;
+    margin-left: 20px;
+}
+{
+	font-family: Arial, sans-serif;
+	background-color: #f5f5f5;
+	display: block;
+	justify-content: center;
+	align-items: center;
+	
+	max-width: 300px;
+}
+.caja {
+	background-color: rgba(247, 143, 179, 0.3);
+	display: block;
+	border-radius: 8px;
+	width: 90%;
+	padding: 20px;
+	margin-top: 20px;
+}
+. caja1{
+	background-color: rgba(0, 0, 0, 0.3);
+	display: block;
+	max-width: 300px;	
+}
+
+
+h3 {
+.mi-gif {
+    width: 400px; 
+    height: auto; 
+    border: 2px solid #000; 
+    border-radius: 10px; 
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    display: block; 
+    margin: 20px auto;
+    gif-image:
+url("https://www.bing.com/images/search?view=detailV2&ccid=o0B66PZM&id=49EA76D43BC30CEE44D522AC044E99116FEC4211&thid=OIP.o0B66PZMpnNQ-Im0cwuXGAHaEI&mediaurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fa3407ae8f64ca67350f889b4730b9718%2ftenor.gif%3fitemid%3d8834897&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a3407ae8f64ca67350f889b4730b9718%3frik%3dEULsbxGZTgSsIg%26pid%3dImgRaw%26r%3d0&exph=278&expw=498&q=gif+contaminaci%c3%b3n+atmosf%c3%a9rica&simid=608009439832602853&FORM=IRPRST&ck=DA55ED017F0E5F3CBD8ED3320F84E9FA&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0");
+
+}
+}
